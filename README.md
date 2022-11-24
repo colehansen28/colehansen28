@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colehansen28
 - 👀 I’m interested in software and front-end development
-- 🌱 I’m currently learning python3. html/CSS, and JavaScript
+- 🌱 I’m currently learning python3, html/CSS, and JavaScript
 - 💞️ I’m looking to collaborate on any simple software application or game.
 - 📫 How to reach me (grasynhansen@gmail.com)
 
